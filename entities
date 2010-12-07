@@ -1,0 +1,252 @@
+&nbsp;	 	 	 	non-breaking space
+&iexcl;	¡	¡	¡	inverted exclamation mark
+&cent;	¢	¢	¢	cent sign
+&pound;	£	£	£	pound sign
+&curren;	¤	¤	¤	 currency sign
+&yen;	¥	¥	¥	yen sign
+&brvbar;	¦	¦	¦	broken bar
+&sect;	§	§	§	section sign
+&uml;	¨	¨	¨	diaeresis
+&copy;	©	©	©	copyright sign
+&ordf;	ª	ª	ª	feminine ordinal indicator
+&laquo;	«	«	«	left-pointing double angle quotation mark
+&not;	¬	¬	¬	not sign
+&shy;				soft hyphen
+&reg;	®	®	®	registered sign
+&macr;	¯	¯	¯	macron
+&deg;	°	°	°	degree sign
+&plusmn;	±	±	±	plus-minus sign
+&sup2;	²	²	²	superscript two
+&sup3;	³	³	³	superscript three
+&acute;	´	´	´	acute accent
+&micro;	µ	µ	µ	micro sign
+&para;	¶	¶	¶	pilcrow sign
+&middot;	·	·	·	middle dot
+&cedil;	¸	¸	¸	cedilla
+&sup1;	¹	¹	¹	superscript one
+&ordm;	º	º	º	masculine ordinal indicator
+&raquo;	»	»	»	right-pointing double angle quotation mark
+&frac14;	¼	¼	¼	vulgar fraction one quarter
+&frac12;	½	½	½	vulgar fraction one half
+&frac34;	¾	¾	¾	vulgar fraction three quarters
+&iquest;	¿	¿	¿	inverted question mark
+&Agrave;	À	À	À	latin capital letter A with grave
+&Aacute;	Á	Á	Á	latin capital letter A with acute
+&Acirc;	Â	Â	Â	latin capital letter A with circumflex
+&Atilde;	Ã	Ã	Ã	latin capital letter A with tilde
+&Auml;	Ä	Ä	Ä	 latin capital letter A with diaeresis
+&Aring;	Å	Å	Å	latin capital letter A with ring above
+&AElig;	Æ	Æ	Æ	latin capital letter AE
+&Ccedil;	Ç	Ç	Ç	latin capital letter C with cedilla
+&Egrave;	È	È	È	latin capital letter E with grave
+&Eacute;	É	É	É	latin capital letter E with acute
+&Ecirc;	Ê	Ê	Ê	latin capital letter E with circumflex
+&Euml;	Ë	Ë	Ë	latin capital letter E with diaeresis
+&Igrave;	Ì	Ì	Ì	latin capital letter I with grave
+&Iacute;	Í	Í	Í	latin capital letter I with acute
+&Icirc;	Î	Î	Î	latin capital letter I with circumflex
+&Iuml;	Ï	Ï	Ï	latin capital letter I with diaeresis
+&ETH;	Ð	Ð	Ð	latin capital letter ETH
+&Ntilde;	Ñ	Ñ	Ñ	latin capital letter N with tilde
+&Ograve;	Ò	Ò	Ò	latin capital letter O with grave
+&Oacute;	Ó	Ó	Ó	latin capital letter O with acute
+&Ocirc;	Ô	Ô	Ô	latin capital letter O with circumflex
+&Otilde;	Õ	Õ	Õ	latin capital letter O with tilde
+&Ouml;	Ö	Ö	Ö	latin capital letter O with diaeresis
+&times;	×	×	×	multiplication sign
+&Oslash;	Ø	Ø	Ø	latin capital letter O with stroke
+&Ugrave;	Ù	Ù	Ù	latin capital letter U with grave
+&Uacute;	Ú	Ú	Ú	latin capital letter U with acute
+&Ucirc;	Û	Û	Û	latin capital letter U with circumflex
+&Uuml;	Ü	Ü	Ü	latin capital letter U with diaeresis
+&Yacute;	Ý	Ý	Ý	latin capital letter Y with acute
+&THORN;	Þ	Þ	Þ	latin capital letter THORN
+&szlig;	ß	ß	ß	latin small letter sharp s
+&agrave;	à	à	à	latin small letter a with grave
+&aacute;	á	á	á	 latin small letter a with acute
+&acirc;	â	â	â	latin small letter a with circumflex
+&atilde;	ã	ã	ã	latin small letter a with tilde
+&auml;	ä	ä	ä	latin small letter a with diaeresis
+&aring;	å	å	å	latin small letter a with ring above
+&aelig;	æ	æ	æ	latin small letter ae
+&ccedil;	ç	ç	ç	latin small letter c with cedilla
+&egrave;	è	è	è	latin small letter e with grave
+&eacute;	é	é	é	latin small letter e with acute
+&ecirc;	ê	ê	ê	latin small letter e with circumflex
+&euml;	ë	ë	ë	latin small letter e with diaeresis
+&igrave;	ì	ì	ì	latin small letter i with grave
+&iacute;	í	í	í	latin small letter i with acute
+&icirc;	î	î	î	latin small letter i with circumflex
+&iuml;	ï	ï	ï	latin small letter i with diaeresis
+&eth;	ð	ð	ð	latin small letter eth
+&ntilde;	ñ	ñ	ñ	latin small letter n with tilde
+&ograve;	ò	ò	ò	latin small letter o with grave
+&oacute;	ó	ó	ó	latin small letter o with acute
+&ocirc;	ô	ô	ô	latin small letter o with circumflex
+&otilde;	õ	õ	õ	latin small letter o with tilde
+&ouml;	ö	ö	ö	latin small letter o with diaeresis
+&divide;	÷	÷	÷	division sign
+&oslash;	ø	ø	ø	latin small letter o with stroke
+&ugrave;	ù	ù	ù	latin small letter u with grave
+&uacute;	ú	ú	ú	latin small letter u with acute
+&ucirc;	û	û	û	latin small letter u with circumflex
+&uuml;	ü	ü	ü	latin small letter u with diaeresis
+&yacute;	ý	ý	ý	latin small letter y with acute
+&thorn;	þ	þ	þ	latin small letter thorn
+&yuml;	ÿ	ÿ	ÿ	latin small letter y with diaeresis
+&fnof;	ƒ	ƒ	ƒ	latin small f with hook
+&Alpha;	Α	Α	Α	greek capital letter alpha
+&Beta;	Β	Β	Β	greek capital letter beta
+&Gamma;	Γ	Γ	Γ	greek capital letter gamma
+&Delta;	Δ	Δ	Δ	greek capital letter delta
+&Epsilon;	Ε	Ε	Ε	greek capital letter epsilon
+&Zeta;	Ζ	Ζ	Ζ	greek capital letter zeta
+&Eta;	Η	Η	Η	greek capital letter eta
+&Theta;	Θ	Θ	Θ	greek capital letter theta
+&Iota;	Ι	Ι	Ι	greek capital letter iota
+&Kappa;	Κ	Κ	Κ	greek capital letter kappa
+&Lambda;	Λ	Λ	Λ	greek capital letter lambda
+&Mu;	Μ	Μ	Μ	greek capital letter mu
+&Nu;	Ν	Ν	Ν	greek capital letter nu
+&Xi;	Ξ	Ξ	Ξ	greek capital letter xi
+&Omicron;	Ο	Ο	Ο	greek capital letter omicron
+&Pi;	Π	Π	Π	greek capital letter pi
+&Rho;	Ρ	Ρ	Ρ	greek capital letter rho
+&Sigma;	Σ	Σ	Σ	greek capital letter sigma
+&Tau;	Τ	Τ	Τ	greek capital letter tau
+&Upsilon;	Υ	Υ	Υ	greek capital letter upsilon
+&Phi;	Φ	Φ	Φ	greek capital letter phi
+&Chi;	Χ	Χ	Χ	greek capital letter chi
+&Psi;	Ψ	Ψ	Ψ	greek capital letter psi
+&Omega;	Ω	Ω	Ω	greek capital letter omega
+&alpha;	α	α	α	greek small letter alpha
+&beta;	β	β	β	greek small letter beta
+&gamma;	γ	γ	γ	greek small letter gamma
+&delta;	δ	δ	δ	greek small letter delta
+&epsilon;	ε	ε	ε	greek small letter epsilon
+&zeta;	ζ	ζ	ζ	greek small letter zeta
+&eta;	η	η	η	greek small letter eta
+&theta;	θ	θ	θ	greek small letter theta
+&iota;	ι	ι	ι	greek small letter iota
+&kappa;	κ	κ	κ	greek small letter kappa
+&lambda;	λ	λ	λ	greek small letter lambda
+&mu;	μ	μ	μ	greek small letter mu
+&nu;	ν	ν	ν	greek small letter nu
+&xi;	ξ	ξ	ξ	greek small letter xi
+&omicron;	ο	ο	ο	greek small letter omicron
+&pi;	π	π	π	greek small letter pi
+&rho;	ρ	ρ	ρ	greek small letter rho
+&sigmaf;	ς	ς	ς	greek small letter final sigma
+&sigma;	σ	σ	σ	greek small letter sigma
+&tau;	τ	τ	τ	greek small letter tau
+&upsilon;	υ	υ	υ	greek small letter upsilon
+&phi;	φ	φ	φ	greek small letter phi
+&chi;	χ	χ	χ	greek small letter chi
+&psi;	ψ	ψ	ψ	greek small letter psi
+&omega;	ω	ω	ω	greek small letter omega
+&thetasym;	ϑ	ϑ	ϑ	greek small letter theta symbol
+&upsih;	ϒ	ϒ	ϒ	greek upsilon with hook symbol
+&piv;	ϖ	ϖ	ϖ	greek pi symbol
+&bull;	•	•	•	bullet
+&hellip;	…	…	…	horizontal ellipsis
+&prime;	′	′	′	primeminutes
+&Prime;	″	″	″	double prime
+&oline;	‾	‾	‾	overline
+&frasl;	⁄	⁄	⁄	fraction slash
+&weierp;	℘	℘	℘	script capital P
+&image;	ℑ	ℑ	ℑ	blackletter capital I
+&real;	ℜ	ℜ	ℜ	blackletter capital R
+&trade;	™	™	™	trade mark sign
+&alefsym;	ℵ	ℵ	ℵ	alef symbol
+&larr;	←	←	←	leftwards arrow
+&uarr;	↑	↑	↑	upwards arrow
+&rarr;	→	→	→	rightwards arrow
+&darr;	↓	↓	↓	downwards arrow
+&harr;	↔	↔	↔	left right arrow
+&crarr;	↵	↵	↵	downwards arrow with corner leftwards
+&lArr;	⇐	⇐	⇐	leftwards double arrow
+&uArr;	⇑	⇑	⇑	upwards double arrow
+&rArr;	⇒	⇒	⇒	rightwards double arrow
+&dArr;	⇓	⇓	⇓	downwards double arrow
+&hArr;	⇔	⇔	⇔	left right double arrow
+&forall;	∀	∀	∀	for all
+&part;	∂	∂	∂	partial differential
+&exist;	∃	∃	∃	there exists
+&empty;	∅	∅	∅	empty set
+&nabla;	∇	∇	∇	nabla
+&isin;	∈	∈	∈	element of
+&notin;	∉	∉	∉	not an element of
+&ni;	∋	∋	∋	contains as member
+&prod;	∏	∏	∏	n-ary product
+&sum;	∑	∑	∑	n-ary sumation
+&minus;	−	−	−	minus sign
+&lowast;	∗	∗	∗	asterisk operator
+&radic;	√	√	√	square root
+&prop;	∝	∝	∝	proportional to
+&infin;	∞	∞	∞	infinity
+&ang;	∠	∠	∠	angle
+&and;	∧	∧	∧	logical and
+&or;	∨	∨	∨	logical or
+&cap;	∩	∩	∩	intersection
+&cup;	∪	∪	∪	union
+&int;	∫	∫	∫	integral
+&there4;	∴	∴	∴	therefore
+&sim;	∼	∼	∼	tilde operator
+&cong;	≅	≅	≅	approximately equal to
+&asymp;	≈	≈	≈	almost equal to
+&ne;	≠	≠	≠	not equal to
+&equiv;	≡	≡	≡	identical to
+&le;	≤	≤	≤	less-than or equal to
+&ge;	≥	≥	≥	greater-than or equal to
+&sub;	⊂	⊂	⊂	subset of
+&sup;	⊃	⊃	⊃	superset of
+&nsub;	⊄	⊄	⊄	not a subset of
+&sube;	⊆	⊆	⊆	subset of or equal to
+&supe;	⊇	⊇	⊇	superset of or equal to
+&oplus;	⊕	⊕	⊕	circled plus
+&otimes;	⊗	⊗	⊗	circled times
+&perp;	⊥	⊥	⊥	up tack
+&sdot;	⋅	⋅	⋅	dot operator
+&lceil;	⌈	⌈	⌈	left ceiling
+&rceil;	⌉	⌉	⌉	right ceiling
+&lfloor;	⌊	⌊	⌊	left floor
+&rfloor;	⌋	⌋	⌋	right floor
+&lang;	〈	⟨	〈	left-pointing angle bracket
+&rang;	〉	⟩	〉	right-pointing angle bracket
+&loz;	◊	◊	◊	lozenge
+&spades;	♠	♠	♠	black spade suit
+&clubs;	♣	♣	♣	black club suit
+&hearts;	♥	♥	♥	black heart suit
+&diams;	♦	♦	♦	black diamond suit
+&quot;	"	"	"	quotation mark
+&amp;	&	&	&	ampersand
+&lt;	<	<	<	less-than sign
+&gt;	>	>	>	greater-than sign
+&OElig;	Œ	Œ	Œ	latin capital ligature OE
+&oelig;	œ	œ	œ	latin small ligature oe
+&Scaron;	Š	Š	Š	latin capital letter S with caron
+&scaron;	š	š	š	latin small letter s with caron
+&Yuml;	Ÿ	Ÿ	Ÿ	latin capital letter Y with diaeresis
+&circ;	ˆ	ˆ	ˆ	modifier letter circumflex accent
+&tilde;	˜	˜	˜	 small tilde
+&ensp;	 	 	 	en space
+&emsp;	 	 	 	em space
+&thinsp;	 	 	 	thin space
+&zwnj;	‌	‌	‌	zero width non-joiner
+&zwj;	‍	‍	‍	zero width joiner
+&lrm;	‎	‎	‎	left-to-right mark
+&rlm;	‏	‏	‏	right-to-left mark
+&ndash;	–	–	–	en dash
+&mdash;	—	—	—	 em dash
+&lsquo;	‘	‘	‘	left single quotation mark
+&rsquo;	’	’	’	right single quotation mark
+&sbquo;	‚	‚	‚	single low-9 quotation mark
+&ldquo;	“	“	“	left double quotation mark
+&rdquo;	”	”	”	right double quotation mark
+&bdquo;	„	„	„	double low-9 quotation mark
+&dagger;	†	†	†	 dagger
+&Dagger;	‡	‡	‡	double dagger
+&permil;	‰	‰	‰	per mille sign
+&lsaquo;	‹	‹	‹	single left-pointing angle quotation mark
+&rsaquo;	›	›	›	single right-pointing angle quotation mark
+&euro;	€	€	€	euro sign
